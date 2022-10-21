@@ -1,0 +1,6 @@
+net\javaguides\springboot\controller\InventoryController.class
+net\javaguides\springboot\service\InventoryService.class
+net\javaguides\springboot\repository\InventoryRepository.class
+net\javaguides\springboot\model\Inventory.class
+net\javaguides\springboot\PhotoInventorySystemApplication.class
+net\javaguides\springboot\service\InventoryServiceImpl.class
